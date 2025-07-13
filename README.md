@@ -51,5 +51,5 @@ This project presents a smart agricultural solution designed to help farmers mon
 - API key:"AIzaSyDD0oSM_wqSgAxqn9Qr3Bre4433AmloJmc"
 
 ### 3. Upload Code to ESP32
-#define WIFI_SSID "realme P3 5G c7dm"
-#define WIFI_PASSWORD "20@Lalitha"
+#define WIFI_SSID "Mamatha"
+#define WIFI_PASSWORD "mamatha123"
